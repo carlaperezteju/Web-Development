@@ -1,0 +1,40 @@
+<style>
+
+
+  .small
+  {
+    font-size: small;
+  }
+
+  .border
+  {
+    border-style: groove;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: black;
+  }
+
+  .row-colour1
+  {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .row-colour2
+  {
+    background-color: silver;
+    color:black;
+  }
+
+  .text
+  {
+    text-align: center;
+  }
+
+  .T
+  {
+    font-size: 30px;
+  }
+
+</style>
